@@ -19,7 +19,7 @@
 👉 [Comply Admin Panel — Full Case Study](https://www.notion.so/Comply-Admin-Panel-22f3f213f7a880b1a2fdcf7474822bad)
 
 🌐 **Live Demo**  
-👉 [www.complyAdmin.com](http://82.25.84.31:8080/)
+👉 [https://admin.buildingcomply.com.au/](https://admin.buildingcomply.com.au/#/Splash)
 
 ---
 
